@@ -20,7 +20,7 @@ Easily integrate fresh football content into your website, app, or sports projec
 
 ```bash
 GET /api/v2/news-by-date?date=2025-01-01
-GET /api/v2/news-by-category?category_id=1
-GET /api/v2/news-by-league?league_id=1
-GET /api/v2/news-by-team?team_id=1
+GET /api/v2/news-by-category?id=3
+GET /api/v2/news-by-league?id=618
+GET /api/v2/news-by-team?id=418
 ```
