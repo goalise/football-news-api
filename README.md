@@ -1,2 +1,26 @@
-# football-news-api
-Football News API – Get real-time football news from major leagues, teams, categories, and dates through a fast and simple REST API.
+# ⚽ Football News API
+
+The **Football News API** provides real-time football news, match updates, and multilingual coverage of major leagues and tournaments.  
+Easily integrate fresh football content into your website, app, or sports project.
+
+👉 **Official website:** [https://goalise.com](https://goalise.com/football-news-api)
+
+---
+
+## 🚀 Features
+
+- 📰 **Latest football news** from trusted global sources  
+- 🌍 **Multilingual support** (English, Spanish, Italian, and more)  
+- ⚡ **Fast JSON API** with pagination and flexible endpoints  
+- 🏟️ **League & team-based filtering**
+
+---
+
+## 🧩 Example Endpoints
+
+```bash
+GET /api/v2/news-by-date?date=2025-01-01
+GET /api/v2/news-by-category?category_id=1
+GET /api/v2/news-by-league?league_id=1
+GET /api/v2/news-by-team?team_id=1
+```
