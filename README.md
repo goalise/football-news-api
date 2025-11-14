@@ -1,6 +1,6 @@
 # ⚽ Football News API
 
-The **Football News API** provides real-time football news, match updates, and multilingual coverage of major leagues and tournaments.  
+The **Football News API** provides real-time football news, transfer news, match previews, match predictions with multilingual coverage of major leagues and tournaments.  
 Easily integrate fresh football content into your website, app, or sports project.
 
 👉 **Official website:** [https://goalise.com](https://goalise.com/football-news-api)
