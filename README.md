@@ -24,3 +24,11 @@ GET /api/v2/news-by-category?id=3
 GET /api/v2/news-by-league?id=618
 GET /api/v2/news-by-team?id=418
 ```
+
+
+---
+
+## 🔗 Related
+
+- [Football API](https://github.com/goalise/football-api) – live scores, fixtures, standings, lineups, statistics and odds
+- [Football Highlights API](https://github.com/goalise/football-highlights-api) – official match highlights and goal clips with embed URLs
